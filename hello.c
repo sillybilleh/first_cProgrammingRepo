@@ -4,6 +4,6 @@ int main(){
   printf("hello\n");
 
   printf("Shell 2");
-  printf("Shello new  friends");
+  printf("Shello friends");
 }
 
