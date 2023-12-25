@@ -3,7 +3,7 @@
 int main(){
   printf("hello\n");
 
-  printf("Shell 3");
+  printf("Shell 2");
   printf("Shello friends");
 }
 
